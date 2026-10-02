@@ -1,4 +1,4 @@
-# Exercícios de Lógica em Python: Estruturas de Repetição e Acumuladores
+# Exercícios Python: Estruturas de Repetição e Acumuladores
 
 Este repositório contém um script prático com quatro exercícios independentes que demonstram o uso de laços `for`, manipulação da função `range()`, formatação de saída (`print`) e lógica condicional. 
 
